@@ -1,5 +1,8 @@
 from functools import reduce
 
+# Problem 53: Maximum Subarray (WIP)
+# https://leetcode.com/problems/maximum-subarray/
+
 class Solution:
     def maxSubArray(self, nums: list) -> int:
         if len(nums) == 1:
